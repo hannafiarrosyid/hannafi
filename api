@@ -1,0 +1,19 @@
+{"success":true,"products":[
+    
+    {"ProductID":"1","ProductName":"TERNALA","href":"Kolab1","UnitPrice":"Rp 199.000","UnitsInStock":"39","UnitsOnOrder":"0","ReorderLevel":"10","Discontinued":"0","url":"https://drive.google.com/uc?export=view&id=1-rw2hFlu14O3_Xe9XyAFGvCpAU1EtJWb"},
+
+    {"ProductID":"4","ProductName":"PRUFAL","SupplierID":"2","CategoryID":"2","QuantityPerUnit":"48 - 6 oz jars","UnitPrice":"Rp 299.000","UnitsInStock":"53","UnitsOnOrder":"0","ReorderLevel":"0","Discontinued":"0","url":"https://drive.google.com/uc?export=view&id=1aMbwQ64uPITFkBIASamYDtElX4JCV7gf"},
+
+    {"ProductID":"5","ProductName":"STICKOZ","SupplierID":"2","CategoryID":"2","QuantityPerUnit":"36 boxes","UnitPrice":"Rp 169.000","UnitsInStock":"0","UnitsOnOrder":"0","ReorderLevel":"0","Discontinued":"1","url":"https://drive.google.com/uc?export=view&id=1VpOW0BewaL5Mv-KlaGmyoMxSlydrrheX"},
+
+    {"ProductID":"6","ProductName":"STARK","SupplierID":"3","CategoryID":"2","QuantityPerUnit":"12 - 8 oz jars","UnitPrice":"Rp 299.000","UnitsInStock":"120","UnitsOnOrder":"0","ReorderLevel":"25","Discontinued":"0","url":"https://drive.google.com/uc?export=view&id=1QL3m_ttru1o4osQj7_tYJjKSva2vK63a"},
+    
+    {"ProductID":"7","ProductName":"VINIES","SupplierID":"3","CategoryID":"7","QuantityPerUnit":"12 - 1 lb pkgs.","UnitPrice":"Rp 169.000","UnitsInStock":"15","UnitsOnOrder":"0","ReorderLevel":"10","Discontinued":"0","url":"https://drive.google.com/uc?export=view&id=1Zg7v6xfgdwS8dU67m9DxUwuvfS0Ont3a"},
+    
+    {"ProductID":"8","ProductName":"STAKEN","SupplierID":"3","CategoryID":"2","QuantityPerUnit":"12 - 12 oz jars","UnitPrice":"Rp 179.000","UnitsInStock":"6","UnitsOnOrder":"0","ReorderLevel":"0","Discontinued":"0","url":"https://drive.google.com/uc?export=view&id=18_3O0uLEJTu7WHwGLZsdOL3cz_NkyNvN"},
+    
+    {"ProductID":"15","ProductName":"THARAVEN","SupplierID":"6","CategoryID":"2","QuantityPerUnit":"24 - 250 ml bottles","UnitPrice":"Rp 179.000","UnitsInStock":"39","UnitsOnOrder":"0","ReorderLevel":"5","Discontinued":"0","url":"https://drive.google.com/uc?export=view&id=1wA2KbE0l1L486ORqZRnL9F4xP4u8zPBh"},
+    
+    {"ProductID":"44","ProductName":"SAINTE","SupplierID":"20","CategoryID":"2","QuantityPerUnit":"20 - 2 kg bags","UnitPrice":"Rp 179.000","UnitsInStock":"27","UnitsOnOrder":"0","ReorderLevel":"15","Discontinued":"0","url":"https://drive.google.com/uc?export=view&id=16fhMOkCoznLpVJwMPe5kK-6JTdio1-cT"}
+    
+    ],"totalRecordCount":10,"version":"17.0.13"}
